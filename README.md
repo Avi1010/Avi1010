@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avi1010
 - 👀 I’m interested in ...living in the world of software developing
-- 🌱 I’m currently learning ...roots of the Software
+- 🌱 I’m currently learning ...roots of Software
 - 💞️ I’m looking to collaborate on ...my dream to become a software developer
 - 📫 How to reach me ...above you can get my Github id or else you can mail me on avi.shrivastava66@gmail.com
 
